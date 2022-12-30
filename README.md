@@ -28,6 +28,8 @@ framework: flask ( not django since it less heavy
 server: python
 client: react - with redux
 
+path to client: clent/myapp/
+
 
 
 
