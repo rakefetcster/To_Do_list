@@ -1,0 +1,182 @@
+.body {
+  width: 100vw;
+  height: fit-content;
+  display: flex;
+  
+}
+.main{
+  width: 100vw;
+  height: fit-content;
+  display: flex;
+}
+
+.left {
+  width: 20%;
+  height: fit-content;
+   margin-top: 4%;
+}
+.buttonDiv{
+  width: 100%;
+   margin-top: 4%;
+   margin-left: 3%;
+}
+.buttonDivUpdate{
+  width: 100%;
+   margin-top: 4%;
+   margin-left: 8%;
+}
+
+.right {
+  width: 80%;
+   height: fit-content;
+}
+.app{
+  background-color: #126BBF;
+  width: 20%;
+  height: fit-content;
+   border: 1px solid black; 
+   border-radius: 25px;
+   padding: 10px 5px 42px 21px;
+   margin: 27px;
+}
+h1 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 42px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; }
+
+
+
+.allTaskDiv{
+  margin: 0 0 0 10px;
+}
+
+.button-47 {
+  align-items: center;
+
+  border: 0 solid #E2E8F0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-sizing: border-box;
+  color: #126bbf;
+  display: inline-flex;
+  font-family: Inter, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  height: 56px;
+  justify-content: center;
+  line-height: 24px;
+  overflow-wrap: break-word;
+  padding: 24px;
+  text-decoration: none;
+  width: auto;
+  border-radius: 8px;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-right: 8%;
+  font-family: 'Raleway',sans-serif;   
+}
+.checkVissble{
+  color: #f8f8f8; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; margin-left: 5px;
+  text-decoration: line-through;
+}
+.checkNotVissble{
+  color: #f8f8f8; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; margin-left: 5px;
+  text-decoration: none;
+}
+.addDiv{
+  background-color: #126BBF;
+  width: 40%;
+  height: fit-content;
+   border: 1px solid black; 
+   border-radius: 25px;
+   padding: 10px 5px 42px 21px;
+   margin: 27px;
+}
+
+h2 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
+
+.fontLabel{
+  color: #f8f8f8;
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.buttonAdd{
+  align-items: center;
+
+  border: 0 solid #E2E8F0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-sizing: border-box;
+  color: #126bbf;
+  display: inline-flex;
+  font-family: Inter, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  height: 38px;
+  justify-content: center;
+  line-height: 24px;
+  overflow-wrap: break-word;
+  padding: 24px;
+  text-decoration: none;
+  width: auto;
+  border-radius: 8px;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 5%;
+  font-family: 'Raleway',sans-serif;   
+}
+.updateDivTask{
+  margin: 0 0 8% 5%;
+
+}
+
+.h2Update{
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 36px;
+  margin: 0 0 6% 6%;
+}
+
+.inputUpdate{
+  height: 20px;
+  color: #000000fa;
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+    margin-left: 5px;
+    text-decoration: none;
+    
+}
+.inputUpdateCheck{
+  height: 20px;
+  color: #000000fa;
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.logdiv{
+  background-color: #126BBF;
+  width: 40%;
+  height: fit-content;
+   border: 1px solid black; 
+   border-radius: 25px;
+   padding: 10px 5px 42px 21px;
+   margin: 27px;
+}
+.logTetails{
+  color: #f8f8f8; font-family: 'Raleway',sans-serif; font-size: 17px; font-weight: 500; line-height: 18px; margin: 0 0 24px; margin-left: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
